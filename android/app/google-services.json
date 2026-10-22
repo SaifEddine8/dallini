@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211282991948",
+    "project_id": "dallini-5a24d",
+    "storage_bucket": "dallini-5a24d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211282991948:android:c5a11b8cf1650ac6584de9",
+        "android_client_info": {
+          "package_name": "com.example.dallini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwumONQAxpFdRdVhWe-OWDqwmFLNGYRb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
